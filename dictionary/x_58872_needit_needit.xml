@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="needit" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="newfield2" max_length="40" name="newfield2" type="integer"/>
+        <element label="newfield3" max_length="300" name="newfield3" type="string"/>
+        <element label="NewField4" max_length="40" name="newfield4" type="integer"/>
+        <element label="new field2" max_length="40" name="new_field2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="when needed" mandatory="true" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
+    </element>
+</database>
